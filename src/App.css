@@ -1,0 +1,75 @@
+.square {
+  width: 100px;
+  height: 100px;
+}
+
+p {
+  font-size: 1.2em;
+}
+
+.red {
+  background-color: rgba(175, 26, 26, 0.4);
+}
+
+.green {
+  background-color: rgba(26, 175, 73, 0.5);
+}
+
+.span-title {
+  color: rgba(26, 175, 73, 0.87);
+}
+
+.span-title-red {
+  color: red;
+}
+
+.span-bg-black {
+  background-color: black;
+  color: white;
+  padding: 0.1%;
+}
+
+.warning {
+  font-size: 1.5em;
+  font-weight: 500;
+  margin-top: 6%;
+  color: red;
+}
+
+.styleO {
+  /* background-color: rgb(250, 255, 240); */
+  color: green;
+  font-size: 46px;
+  font-weight: 400;
+  width: 100px;
+  height: 100px;
+  margin: 0.25%;
+}
+
+.styleX {
+  /* background-color: rgb(189, 220, 247) ; */
+  color: red;
+  font-size: 46px;
+  font-weight: 400;
+  width: 100px;
+  height: 100px;
+  margin: 0.25%;
+}
+
+.align-center {
+  text-align: center;
+}
+
+.div-warning {
+  height: 8vh;
+}
+
+.div-concats {
+  display: flex !important;
+  font-size: 0.9em;
+}
+
+.cat {
+  font-size: 1.3em;
+  margin-left: 0.3%;
+}
